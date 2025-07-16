@@ -98,7 +98,7 @@ credit-app/
 ### Risk Assessment
 1. Navigate to the **Risk Assessment** page.
 2. Choose between **Manual Entry** or **Batch Processing**.
-3. Enter the required borrower information or upload a CSV file.
+3. Enter the required borrower information or upload a CSV file (can upload the `test.csv` file in the `/data` folder).
 4. View detailed results, including:
    - Risk Score
    - Risk Level
