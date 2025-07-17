@@ -26,7 +26,8 @@ sample_data = {
     'credit_limit_used(%)': [50.0, 60.0],
     'credit_score': [700, 650],
     'prev_defaults': [0, 1],
-    'default_in_last_6months': [0, 1]
+    'default_in_last_6months': [0, 1],
+    'credit_card_default': [0, 1]
 }
 st.dataframe(pd.DataFrame(sample_data))
 
